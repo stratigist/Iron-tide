@@ -1,4 +1,3 @@
 # Iron-tide
-
-this area shuld be used for the RTS game
-all the scrips shuld be here and kept in order simalar to the way they are kept in unity 
+updated intent is to keep all game files of an active project here
+once a project is finished all files are to be moved to a compressed file and cleaned up
